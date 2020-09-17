@@ -21,13 +21,13 @@
 
 界面示例
 
-![image](https://github.com/yuxianye/ATM/blob/master/images/主菜单.png)
+![image](https://github.com/yuxianye/ATM/blob/master/Images/主菜单.png)
 
-![image](https://github.com/yuxianye/ATM/blob/master/images/插入纸币.png)
+![image](https://github.com/yuxianye/ATM/blob/master/Images/插入纸币.png)
 
-![image](https://github.com/yuxianye/ATM/blob/master/images/金额确认.png)
+![image](https://github.com/yuxianye/ATM/blob/master/Images/金额确认.png)
 
-![image](https://github.com/yuxianye/ATM/blob/master/images/输入金额.png)
+![image](https://github.com/yuxianye/ATM/blob/master/Images/输入金额.png)
 
-![image](https://github.com/yuxianye/ATM/blob/master/images/打印小票.png)
+![image](https://github.com/yuxianye/ATM/blob/master/Images/打印小票.png)
 
